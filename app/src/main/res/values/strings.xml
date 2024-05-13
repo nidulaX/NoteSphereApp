@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note Sphere</string>
+    <string name="new_note">New Note</string>
+    <string name="title">Title</string>
+    <string name="all_notes">All Notes</string>
+    <string name="edit_note">Edit Note</string>
+</resources>

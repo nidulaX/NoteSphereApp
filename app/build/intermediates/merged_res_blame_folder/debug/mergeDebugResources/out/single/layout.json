@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.notebook.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.notebook.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.notebook.app-mergeDebugResources-30:\\layout\\note_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.notebook.app-main-33:\\layout\\note_item.xml"
+    },
+    {
+        "merged": "com.example.notebook.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.notebook.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.notebook.app-mergeDebugResources-30:\\layout\\activity_new_note.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.notebook.app-main-33:\\layout\\activity_new_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.notebook.app-mergeDebugResources-30:\\layout\\activity_update_note.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.notebook.app-main-33:\\layout\\activity_update_note.xml"
+    }
+]
